@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b45cd07e-6b94-4171-8ead-7792cc6e4dab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Creational-Design-Pattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem-Statement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-1-SOLID-Principle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/Day-2-Design-Patterns.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/Images/Creational-Design-Pattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/Images/Problem-Statement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/src/ShopWorldApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/src/dal/UserDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/src/entities/ClothingProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/src/entities/ElectronicProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/src/entities/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/src/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/src/entities/ProductFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2-Design-Pattern/src/entities/UserAccount.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,27 +54,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/savan/Desktop/Low-Level-Design/Day-2-Design-Pattern",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "last_opened_file_path": "/home/savan/Desktop/Low-Level-Design/Day-2-Design-Patterns",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="ShopWorldApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ShopWorldApp" />
       <module name="Day-2-Design-Patterns" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Day-2-Design-Patterns" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Day-2-Design-Patterns" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
